@@ -6,3 +6,5 @@ def fug():
 
 if __name__ == "__main__":
     fug()
+    main()
+    # herro
